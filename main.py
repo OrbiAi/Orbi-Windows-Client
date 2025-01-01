@@ -60,7 +60,7 @@ def setup_tray_icon():
         MenuItem("Status: Running", lambda: None, enabled=False),
         MenuItem("Exit", lambda icon: exit_program(icon))
     )
-    icon_image = Image.new("RGB", (64, 64), color=(0, 128, 255))
+    icon_image = Image.open("orbi.png")
     icon = Icon("Orbi Client", icon_image, "Orbi Client", menu)
     icon.run()
 
