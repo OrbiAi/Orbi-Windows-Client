@@ -1,4 +1,4 @@
-# Orbi Client
+# Orbi Windows Client
 
 This is the Windows client for the Orbi API. You need a running Orbi API server to use this.
 
