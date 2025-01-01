@@ -1,0 +1,5 @@
+pillow
+requests
+pystray
+pywin32
+plyer
