@@ -1,6 +1,6 @@
 # Orbi Windows Client
 
-This is the Windows client for the Orbi API. You need a running Orbi API server to use this.
+This is the Windows client for Orbi. You need an [Orbi Server](https://github.com/OrbiAi/Orbi-Server) running to use this.
 
 > [!WARNING]
 > Orbi Client ("the software") is provided "as is" without warranties of any kind. We are not liable for any damages arising from its use, including the capture or misuse of screenshots containing sensitive information. The software may capture passwords, DRM-protected content, and copyrighted material.

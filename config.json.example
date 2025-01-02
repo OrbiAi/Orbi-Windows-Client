@@ -1,4 +1,4 @@
 {
     "interval": 60,
-    "api_url": "http://localhost:3443/submit"
+    "api_url": "http://localhost:3443/api/submit"
 }
