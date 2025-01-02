@@ -6,7 +6,7 @@ from io import BytesIO
 from pystray import Icon, Menu, MenuItem
 from PIL import Image
 import win32gui # type: ignore
-from plyer import notification # type: ignore
+from plyer import notification
 import json
 import os
 
